@@ -66,26 +66,26 @@ The final project is based on the results you will produce in Exercises 6 and 7.
 - **Assignment**: - [Exercise 1: An introduction to elements of Python]()
 - Readings: Zelle, Chapters 1 & 2
 
-**12.9** - 
+**12.9** - Basics of git online (e.g., Github.com); Writing simple programs the right way; Definite loops
 - **Assignment**: - [Exercise 2: ]()
 - Readings: Zelle, Chapters 1 & 2
 
-**19.9** - 
+**19.9** - Conditional statements; Functions
 - **Assignment**: - [Exercise 3: ]()
-- Readings: Zelle, Chapters 1 & 2
+- Readings: Zelle, Chapters 6 & 7
 
-**26.9** - 
+**26.9** - Libraries; Dealing with numerical data using Pandas (or NumPy)
 - **Assignment**: - [Exercise 4: ]()
-- Readings: Zelle, Chapters 1 & 2
+- Readings: None
 
-**3.10** - 
+**3.10** - Plotting data using Pandas (or Matplotlib + [Plotly](http://nbviewer.jupyter.org/github/plotly/python-user-guide/blob/master/s6_matplotlylib/s6_matplotlylib.ipynb)?)
 - **Assignment**: - [Exercise 5: ]()
-- Readings: Zelle, Chapters 1 & 2
+- Readings: None
 
-**10.10** - 
+**10.10** - Loops revisited and Booleans
 - **Assignment**: - [Exercise 6: ]()
-- Readings: Zelle, Chapters 1 & 2
+- Readings: Zelle, Chapters 8
 
-**17.10** - 
+**17.10** - Reading and writing data files
 - **Assignment**: - [Exercise 7: ]()
-- Readings: Zelle, Chapters 1 & 2
+- Readings: Zelle, Chapters 5
