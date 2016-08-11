@@ -61,55 +61,31 @@ The final project is based on the results you will produce in Exercises 6 and 7.
 
 ## Course topics by week
 *Lecture content, readings and due dates are subject to change*
-### Basic concepts of quantitative geology
-**14.3 (Lecture)** - (I) [What is Quantitative Geology?](https://github.com/Intro-Quantitative-Geology/Lecture-slides/blob/master/01-What-is-quantitative-geology/01-What-is-quantitative-geology.pdf), (II) [Essentials of computing](https://github.com/Intro-Quantitative-Geology/Lecture-slides/blob/master/02-Essentials-of-computing/02-Essentials-of-computing.pdf)
-- Readings: Stüwe, Chapter 1; Zelle, Chapters 1 & 2
+### Basic concepts of Python and computer programs
+**5.9** - What is a programming language?; Why Python?; Elements of a computer program
+- **Assignment**: - [Exercise 1: An introduction to elements of Python]()
+- Readings: Zelle, Chapters 1 & 2
 
-**16.3 (Lab)** - [Exercise 1: Introduction to Python and NumPy I](https://github.com/Intro-Quantitative-Geology/Python-and-NumPy-I)
-- Homework: None
+**12.9** - 
+- **Assignment**: - [Exercise 2: ]()
+- Readings: Zelle, Chapters 1 & 2
 
-### Dealing with age data: Radioactivity and essential geostatistics
-**21.3 (Lecture)** - (I) [Common statistical methods in geoscience](https://github.com/Intro-Quantitative-Geology/Lecture-slides/blob/master/03-Common-statistical-methods-in-geoscience/03-Common-statisical-methods-in-geoscience.pdf), (II) [What do geochronologic ages mean?](https://github.com/Intro-Quantitative-Geology/Lecture-slides/blob/master/04-What-do-geochronological-ages-mean/04-What-do-geochronological-ages-mean.pdf)
-- Readings: Taylor, Chapters 2 & 4
+**19.9** - 
+- **Assignment**: - [Exercise 3: ]()
+- Readings: Zelle, Chapters 1 & 2
 
-**23.3 (Lab)** - [Exercise 2: Introduction to Python and NumPy II](https://github.com/Intro-Quantitative-Geology/Python-and-NumPy-II)
-- Homework: Exercise 1 write-up due
+**26.9** - 
+- **Assignment**: - [Exercise 4: ]()
+- Readings: Zelle, Chapters 1 & 2
 
-### 28.3, 30.3 - NO CLASS (Easter holiday break)
+**3.10** - 
+- **Assignment**: - [Exercise 5: ]()
+- Readings: Zelle, Chapters 1 & 2
 
-### Hillslope sediment transport and heat transfer: The diffusion equation 
-**4.4 (Lecture)** - (I) [Natural diffusion: Hillslope sediment transport, Earth’s thermal field](https://github.com/Intro-Quantitative-Geology/Lecture-slides/blob/master/05-Natural-diffusion/05-Natural-diffusion.pdf), (II) [Solving the diffusion equation](https://github.com/Intro-Quantitative-Geology/Lecture-slides/blob/master/06-Solving-the-diffusion-equation/06-Solving-the-diffusion-equation.pdf)
-- Readings: Stüwe, Chapter 3; Pelletier, Chapter 2
+**10.10** - 
+- **Assignment**: - [Exercise 6: ]()
+- Readings: Zelle, Chapters 1 & 2
 
-**6.4 (Lab)** - [Exercise 3: Uplift and diffusion of the Earth’s surface](https://github.com/Intro-Quantitative-Geology/Hillslope-diffusion)
-- Homework: Exercise 2 write-up due
-
-### Fluvial incision and rock uplift: The advection/wave equation
-**11.4 (Lecture)** - (I) [Advection of the Earth’s surface: Fluvial incision and rock uplift](https://github.com/Intro-Quantitative-Geology/Lecture-slides/blob/master/07-Advection-of-the-Earths-surface/07-Advection-of-the-Earths-surface.pdf), (II) [Solving the advection/wave equation](https://github.com/Intro-Quantitative-Geology/Lecture-slides/blob/master/08-Solving-the-advection-equation/08-Solving-the-advection-equation.pdf)
-- Readings: Stüwe, Chapter 3; Pelletier, Chapter 4
-
-**13.4 (Lab)** - [Exercise 4: River profile calculations](https://github.com/Intro-Quantitative-Geology/River-advection)
-- Homework: Exercise 3 write-up due
-
-### Viscous flow of rock and ice: (Non-)Newtonian flow equations
-**18.4 (Lecture)** - (I) [Rocks and ice as viscous materials](https://github.com/Intro-Quantitative-Geology/Lecture-slides/blob/master/09-Rock-and-ice-as-viscous-materials/09-Rock-and-ice-as-viscous-materials.pdf), (II) [Equations of viscous flow](https://github.com/Intro-Quantitative-Geology/Lecture-slides/blob/master/10-Viscous-flow-down-an-incline/10-Viscous-flow-down-an-incline.pdf)
-- Readings: Stüwe, Chapter 5; Pelletier, Chapter 6
-
-**20.4 (Lab)** - [Exercise 5: Glacier mechanics](https://github.com/Intro-Quantitative-Geology/Lab-exercise-5)
-- Homework: Exercise 4 write-up due
-
-### Quantitative thermochronology: Linking ages to processes
-**25.4 (Lecture)** - (I) [Basic concepts in thermochronology](https://github.com/Intro-Quantitative-Geology/Lecture-slides/blob/master/11-Basic-concepts-of-thermochronology/11-Basic-concepts-of-thermochronology.pdf), (II) [Low-temperature thermochronology](https://github.com/Intro-Quantitative-Geology/Lecture-slides/blob/master/12-Low-temperature-thermochronology/12-Low-temperature-thermochronology.pdf)
-- Readings: Braun et al., Chapters 1-3
-
-**27.4 (Lab)** - [Exercise 6: Predicting thermochronometer ages I](https://github.com/Intro-Quantitative-Geology/Lab-exercise-6)
-- Homework: Exercise 5 write-up due
-
-**2.5 (Lecture)** - (I) [Quantifying erosion with thermochronology](https://github.com/Intro-Quantitative-Geology/Lecture-slides/blob/master/13-Quantifying-erosion-with-thermochronology/13-Quantifying-erosion-with-thermochronology.pdf)
-- Readings: Braun et al., Chapters 1-3
-
-**4.5 (Lab)** - [Exercise 7: Predicting thermochronometer ages II](https://github.com/Intro-Quantitative-Geology/Lab-exercise-7)
-- Homework: Exercise 6 write-up due
-
-### Final project deadline
-**13.5 - [Final project](https://github.com/Intro-Quantitative-Geology/Thermochronology-I/blob/master/Final-report.md) (includes Exercise 7) due by 17.00**
+**17.10** - 
+- **Assignment**: - [Exercise 7: ]()
+- Readings: Zelle, Chapters 1 & 2
