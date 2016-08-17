@@ -22,7 +22,7 @@
   - Phone: +358 2941 50760 
 
 - Some person
-  - Office: 
+  - Office: , 
   - Email: `firstname.lastname@helsinki.fi`
   - Phone: 
 
