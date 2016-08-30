@@ -13,7 +13,7 @@
 - David Whipp
   - Office: D430, Exactum
   - Email: `firstname.lastname@helsinki.fi`
-  - Phone: (0)2 941 51617
+  - Phone: +358 2941 51617
 
 ## Course assistant(s)
 - Vuokko Heikinheimo
@@ -21,10 +21,10 @@
   - Email: `firstname.lastname@helsinki.fi`
   - Phone: +358 2941 50760 
 
-- Some person
-  - Office: 
+- Jorina Schütt
+  - Office: D422, Exactum
   - Email: `firstname.lastname@helsinki.fi`
-  - Phone: 
+  - Phone: +358 45 1865288
 
 ## Course websites
 - Course site for Period I: [https://github.com/Python-for-geo-people](https://github.com/Python-for-geo-people)
@@ -68,7 +68,7 @@ The final project is based on the results you will produce in Exercises 6 and 7.
 *Lecture content, readings and due dates are subject to change*
 ### Basic concepts of Python and computer programs
 **5.9** - What is a programming language?; Why Python?; Elements of a computer program
-- **Assignment**: - [Exercise 1: An introduction to elements of Python]()
+- **Assignment**: - [Exercise 1: An introduction to elements of Python](https://github.com/Python-for-geo-people/Intro-to-Python-I)
 - Readings: Zelle, Chapters 1 & 2
 
 **12.9** - Basics of git online (e.g., Github.com); Writing simple programs the right way; Definite loops
