@@ -42,23 +42,23 @@
 - Optional textbooks:
   - Beazley, D. M. (2012) [Python Essential Reference](http://www.dabeaz.com/per.html), Fourth edition. Addison-Wesley.
 
-# CONTENT BELOW HAS NOT BEEN UPDATED
-
 ## General description of this part of the course
-This part of the course fo course aims to:
+This part of these courses aims to:
 
-1. Introduce students to modelling Earth science data and the Python programming language
-2. Develop basic programming skills through analysis of common equations used in the Earth sciences
-3. Present some common techniques for comparing geologic data to numerical model predictions
+1. Introduce students to the Python programming language
+2. Develop basic programming skills
 
 ## Course format
-This course is equally divided between lectures on Mondays and computer-based laboratory exercises on Wednesdays. Monday classes will be divided into two \~45 minute lectures with a short break in the middle of class. Lectures slides will be available on Moodle on the morning prior to each lecture. Laboratory exercises will focus on applying lecture material and developing basic programming skills using the Python language. Typical exercises will involve a short introduction, followed by topical computer-based tasks. At the end of the exercises, you will be asked to submit answers to relevant questions, and possibly related plots and/or Python codes you have written/used. Students are encouraged to discuss and work together on the laboratory exercises, however the laboratory summary write-ups that you submit must be completed individually and must clearly reflect your own work.
+The majority of this course will be spent in front of a computer learning to program in the Python language and working on exercises.
+During Teaching Period I, the Automating GIS processes and Introduction to Quantitative Geology courses will meet together and focus on learning to program in Python. Previously, both this course and the Automating GIS processes course lacked sufficient time for students to properly learn the basic concepts of programming in Python. We hope this extended time learning Python will be helpful later in the course (i.e., in Period II) when we work on the course-related applications.
+
+The computer exercises will focus on developing basic programming skills using the Python language and applying those skills to various problems. Typical exercises will involve a brief introduction followed by topical computer-based tasks. At the end of the exercises, you may be asked to submit answers to relevant questions, some related plots, and/or Python codes you have written or used. You are encouraged to discuss and work together with other students on the laboratory exercises, however the laboratory summary write-ups that you submit must be completed individually and must clearly reflect your own work.
 
 ## Course topics by week
 *Lecture content, readings and due dates are subject to change*
 ### Basic concepts of Python and computer programs
 **5.9** - What is a programming language?; Why Python?; Elements of a computer program
-- **Assignment**: - [Exercise 1: An introduction to elements of Python](https://github.com/Python-for-geo-people/Intro-to-Python-I)
+- **Assignment**: - [Exercise 1: A taste of Python](https://github.com/Python-for-geo-people/A-taste-of-Python)
 - Readings: Zelle, Chapters 1 & 2
 
 **12.9** - Basics of git online (e.g., Github.com); Writing simple programs the right way; Definite loops
@@ -69,11 +69,13 @@ This course is equally divided between lectures on Mondays and computer-based la
 - **Assignment**: - [Exercise 3: ]()
 - Readings: Zelle, Chapters 6 & 7
 
-**26.9** - Libraries; Dealing with numerical data using Pandas (or NumPy)
+[//]: # **26.9** - Libraries; Dealing with numerical data using Pandas (or NumPy)
+**26.9** - Libraries; Dealing with numerical data using NumPy
 - **Assignment**: - [Exercise 4: ]()
 - Readings: None
 
-**3.10** - Plotting data using Pandas (or Matplotlib + [Plotly](http://nbviewer.jupyter.org/github/plotly/python-user-guide/blob/master/s6_matplotlylib/s6_matplotlylib.ipynb)?)
+[//]: # **3.10** - Plotting data using Pandas (or Matplotlib + [Plotly](http://nbviewer.jupyter.org/github/plotly/python-user-guide/blob/master/s6_matplotlylib/s6_matplotlylib.ipynb)?)
+**3.10** - Plotting data using Matplotlib + Plotly 
 - **Assignment**: - [Exercise 5: ]()
 - Readings: None
 
