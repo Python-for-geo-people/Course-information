@@ -44,8 +44,8 @@
 
 # CONTENT BELOW HAS NOT BEEN UPDATED
 
-## General description of the course
-This course aims to:
+## General description of this part of the course
+This part of the course fo course aims to:
 
 1. Introduce students to modelling Earth science data and the Python programming language
 2. Develop basic programming skills through analysis of common equations used in the Earth sciences
@@ -53,16 +53,6 @@ This course aims to:
 
 ## Course format
 This course is equally divided between lectures on Mondays and computer-based laboratory exercises on Wednesdays. Monday classes will be divided into two \~45 minute lectures with a short break in the middle of class. Lectures slides will be available on Moodle on the morning prior to each lecture. Laboratory exercises will focus on applying lecture material and developing basic programming skills using the Python language. Typical exercises will involve a short introduction, followed by topical computer-based tasks. At the end of the exercises, you will be asked to submit answers to relevant questions, and possibly related plots and/or Python codes you have written/used. Students are encouraged to discuss and work together on the laboratory exercises, however the laboratory summary write-ups that you submit must be completed individually and must clearly reflect your own work.
-
-## Grading
-Course grades will be given using the universal six-level grading scale from 0 to 5. Your grade will be based on (1) seven laboratory exercise summary write-ups, and (2) a course project (briefly described below). The weight of each item is given below.
-- 50% - Exercise write-ups (7 in total)
-- 50% - Final project report
-
-Note: Deadlines for exercise write-ups and the term project are **firm** and given in the schedule on the following pages. Exercise write-ups will be due by the start of lab on the due date. If you anticipate you will not be able to submit any of these items by the given deadline, you should let me know as early as possible and must let me know at least one day in advance. Late write-ups will be marked down 25\% per day late, so please submit it on time.
-
-## Final project
-The final project is based on the results you will produce in Exercises 6 and 7. In these exercises, you will modify a Python code to read in a data file, make some basic calculations using some of the equations we’ve discussed earlier in the course and produce a series of plots. The goal of the exercise is to model a geological dataset and use the model to interpret the data. The final project report will involve writing a short paper with the introductory and background material for the data from Exercises 6 and 7, presenting your results in a series of plots with a short section of text and then discussing the meaning of the results. The intent is for you to write a short scientific paper with the same material that would typically be present in a scientific journal article. Details on the final project paper will be given later in the course.
 
 ## Course topics by week
 *Lecture content, readings and due dates are subject to change*
