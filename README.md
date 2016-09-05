@@ -58,32 +58,32 @@ The computer exercises will focus on developing basic programming skills using t
 *Lecture content, readings and due dates are subject to change*
 ### Basic concepts of Python and computer programs
 **5.9** - What is a programming language?; Why Python?; Elements of a computer program
-- **Assignment**: [Exercise 1: A taste of Python](https://github.com/Python-for-geo-people/A-taste-of-Python)
-- Additional material: [Lecture 1: Computers and programs](https://github.com/Python-for-geo-people/Lecture-slides/tree/master/01-Computers-and-programs)
-- Readings: Zelle, Chapters 1 & 2
+- **Assignment** - [Exercise 1: A taste of Python](https://github.com/Python-for-geo-people/A-taste-of-Python)
+- Additional material - [Lecture 1: Computers and programs](https://github.com/Python-for-geo-people/Lecture-slides/tree/master/01-Computers-and-programs)
+- Readings - Zelle, Chapters 1 & 2
 
 **12.9** - Basics of git online (e.g., Github.com); Writing simple programs the right way; Definite loops
-- **Assignment**: [Exercise 2: ]()
-- Readings: Zelle, Chapters 1 & 2
+- **Assignment** - [Exercise 2: ]()
+- Readings - Zelle, Chapters 1 & 2
 
 **19.9** - Conditional statements; Functions
-- **Assignment**: [Exercise 3: ]()
-- Readings: Zelle, Chapters 6 & 7
+- **Assignment** - [Exercise 3: ]()
+- Readings - Zelle, Chapters 6 & 7
 
 [//]: # (**26.9** - Libraries; Dealing with numerical data using Pandas (or NumPy))
 **26.9** - Libraries; Dealing with numerical data using NumPy
-- **Assignment**: [Exercise 4: ]()
-- Readings: None
+- **Assignment** - [Exercise 4: ]()
+- Readings - None
 
 [//]: # (**3.10** - Plotting data using Pandas (or Matplotlib + [Plotly](http://nbviewer.jupyter.org/github/plotly/python-user-guide/blob/master/s6_matplotlylib/s6_matplotlylib.ipynb)?))
 **3.10** - Plotting data using Matplotlib + Plotly 
-- **Assignment**: [Exercise 5: ]()
-- Readings: None
+- **Assignment** - [Exercise 5: ]()
+- Readings - None
 
 **10.10** - Loops revisited and Booleans
-- **Assignment**: [Exercise 6: ]()
-- Readings: Zelle, Chapters 8
+- **Assignment** - [Exercise 6: ]()
+- Readings - Zelle, Chapters 8
 
 **17.10** - Reading and writing data files
-- **Assignment**: [Exercise 7: ]()
-- Readings: Zelle, Chapters 5
+- **Assignment** - [Exercise 7: ]()
+- Readings - Zelle, Chapters 5
