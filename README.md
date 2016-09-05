@@ -59,7 +59,7 @@ The computer exercises will focus on developing basic programming skills using t
 ### Basic concepts of Python and computer programs
 **5.9** - What is a programming language?; Why Python?; Elements of a computer program
 - **Assignment**: - [Exercise 1: A taste of Python](https://github.com/Python-for-geo-people/A-taste-of-Python)
-- Additional material: [Lecture 1: A taste of Python](https://github.com/Python-for-geo-people/Lecture-slides/tree/master/01-Computers-and-programs)
+- Additional material: [Lecture 1: Computers and programs](https://github.com/Python-for-geo-people/Lecture-slides/tree/master/01-Computers-and-programs)
 - Readings: Zelle, Chapters 1 & 2
 
 **12.9** - Basics of git online (e.g., Github.com); Writing simple programs the right way; Definite loops
