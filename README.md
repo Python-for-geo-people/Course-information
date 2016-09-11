@@ -62,8 +62,8 @@ The computer exercises will focus on developing basic programming skills using t
 - Additional material - [Lecture 1: Computers and programs](https://github.com/Python-for-geo-people/Lecture-slides/tree/master/01-Computers-and-programs)
 - Readings - Zelle, Chapters 1 & 2
 
-**12.9** - Basics of git online (e.g., Github.com); Python Basics; Writing simple programs the right way
-- **Assignment** - [Exercise 2: ]()
+**12.9** - Basics of git online (e.g., GitHub.com); Data types and lists; Writing simple programs the right way
+- **Assignment** - [Exercise 2: ](https://classroom.github.com/assignment-invitations/a3e02d425c06db7948bcfe7ae7804317)
 - Readings - Zelle, Chapters 1 & 2
 
 **19.9** - Definite loops; Conditional statements
