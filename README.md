@@ -27,7 +27,9 @@
   - Phone: +358 45 1865288
 
 ## Course websites
-- Course site for Period I: [https://github.com/Python-for-geo-people](https://github.com/Python-for-geo-people)
+- Course sites for Period I:
+  - Main course site: [https://github.com/Python-for-geo-people](https://github.com/Python-for-geo-people)
+  - Pouta Blueprints site: [https://pb.geo.helsinki.fi](https://pb.geo.helsinki.fi)
 - Automating GIS processes (Period II)
   - Moodle page: [https://moodle.helsinki.fi/course/view.php?id=18331](https://moodle.helsinki.fi/course/view.php?id=18331)
 - Introduction to Quantitative Geology (Period II)
