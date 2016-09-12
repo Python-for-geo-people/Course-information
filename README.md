@@ -31,7 +31,7 @@
   - Main course site: [https://github.com/Python-for-geo-people](https://github.com/Python-for-geo-people)
   - Pouta Blueprints site: [https://pb.geo.helsinki.fi](https://pb.geo.helsinki.fi)
 - Automating GIS processes (Period II)
-  - Moodle page: [https://moodle.helsinki.fi/course/view.php?id=18331](https://moodle.helsinki.fi/course/view.php?id=18331)
+  - Moodle page: [https://moodle.helsinki.fi/course/view.php?id=18331](https://moodle.helsinki.fi/course/view.php?id=21843)
 - Introduction to Quantitative Geology (Period II)
   - Main course site: [https://github.com/Intro-Quantitative-Geology](https://github.com/Intro-Quantitative-Geology)
   - Moodle page: [https://moodle.helsinki.fi/course/view.php?id=12453](https://moodle.helsinki.fi/course/view.php?id=12453)
