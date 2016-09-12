@@ -65,6 +65,7 @@ The computer exercises will focus on developing basic programming skills using t
 - Readings - Zelle, Chapters 1 & 2
 
 **12.9** - Basics of git online (e.g., GitHub.com); Data types and lists; Writing simple programs the right way
+- **Lecture** - [Diving into Python](https://github.com/Python-for-geo-people/Diving-into-Python/)
 - **Assignment** - [Exercise 2: ](https://classroom.github.com/assignment-invitations/a3e02d425c06db7948bcfe7ae7804317)
 - Readings - Zelle, Chapters 1 & 2
 
