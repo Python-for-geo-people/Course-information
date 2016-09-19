@@ -61,17 +61,19 @@ The computer exercises will focus on developing basic programming skills using t
 *Lecture content, readings and due dates are subject to change*
 ### Basic concepts of Python and computer programs
 **5.9** - What is a programming language?; Why Python?; Elements of a computer program
-- **Lecture / Assignment** - [Exercise 1: A taste of Python](https://github.com/Python-for-geo-people/A-taste-of-Python)
+- **Lesson** - [Lesson 1: A taste of Python](https://github.com/Python-for-geo-people/A-taste-of-Python)
+- **Assignment** - [Exercise 1: Creating a GitHub account and using the cloud](https://github.com/Python-for-geo-people/Exercise-1)
 - Additional material - [Lecture 1: Computers and programs](https://github.com/Python-for-geo-people/Lecture-slides/tree/master/01-Computers-and-programs)
 - Readings - Zelle, Chapters 1 & 2
 
 **12.9** - Basics of git online (e.g., GitHub.com); Data types and lists; Writing simple programs the right way
-- **Lecture** - [Diving into Python](https://github.com/Python-for-geo-people/Diving-into-Python/)
+- **Lesson** - [Lesson 2: Diving into Python](https://github.com/Python-for-geo-people/Diving-into-Python/)
 - **Assignment** - [Exercise 2: Writing scripts and using GitHub](https://classroom.github.com/assignment-invitations/a3e02d425c06db7948bcfe7ae7804317)
 - Readings - Zelle, Chapters 1 & 2
 
-**19.9** - Definite loops; Conditional statements
-- **Assignment** - [Exercise 3: ]()
+**19.9** - `for` loops; Conditional statements
+- **Lesson** - [Lesson 3: Control flow](https://github.com/Python-for-geo-people/Control-flow)
+- **Assignment** - [Exercise 3: `for` loops and conditional statements](https://classroom.github.com/assignment-invitations/f8a6eacb78c2f06f8834b391d129a6ab)
 - Readings - Zelle, Chapters 6 & 7
 
 [//]: # (**26.9** - Libraries; Dealing with numerical data using Pandas (or NumPy))
