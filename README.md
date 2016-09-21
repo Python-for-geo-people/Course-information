@@ -77,7 +77,7 @@ The computer exercises will focus on developing basic programming skills using t
 - Readings - Zelle, Chapters 6 & 7
 
 [//]: # (**26.9** - Libraries; Dealing with numerical data using Pandas (or NumPy))
-**26.9** - Functions and Libraries
+**26.9** - Using Spyder; Functions and Libraries
 - **Lesson** - [Lesson 4: ]()
 - **Assignment** - [Exercise 4: ]()
 - Readings - None
