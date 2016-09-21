@@ -83,17 +83,17 @@ The computer exercises will focus on developing basic programming skills using t
 - Readings - None
 
 [//]: # (**3.10** - Plotting data using Pandas (or Matplotlib + [Plotly](http://nbviewer.jupyter.org/github/plotly/python-user-guide/blob/master/s6_matplotlylib/s6_matplotlylib.ipynb)?))
-**3.10** - Dealing with numerical data using NumPy
+**3.10** - Reading and writing data files
 - **Lesson** - [Lesson 5: ]()
 - **Assignment** - [Exercise 5: ]()
-- Readings - None
+- Readings - Zelle, Chapters 5
 
-**10.10** - Plotting data using Matplotlib + Plotly
+**10.10** - Dealing with numerical data using NumPy
 - **Lesson** - [Lesson 6: ]()
 - **Assignment** - [Exercise 6: ]()
 - Readings - Zelle, Chapters 8
 
-**17.10** - Reading and writing data files
+**17.10** - Plotting data using Matplotlib + Plotly
 - **Lesson** - [Lesson 7: ]()
 - **Assignment** - [Exercise 7: ]()
-- Readings - Zelle, Chapters 5
+- Readings - None
