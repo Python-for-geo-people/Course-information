@@ -77,9 +77,9 @@ The computer exercises will focus on developing basic programming skills using t
 - Readings - Zelle, Chapters 6 & 7
 
 [//]: # (**26.9** - Libraries; Dealing with numerical data using Pandas (or NumPy))
-**26.9** - Using Spyder; Functions and Libraries
-- **Lesson** - [Lesson 4: ]()
-- **Assignment** - [Exercise 4: ]()
+**26.9** - Using Spyder; Functions and Modules
+- **Lesson** - [Lesson 4: Functions and modules](https://github.com/Python-for-geo-people/Functions-and-modules)
+- **Assignment** - [Exercise 4: A temperature calculator](https://classroom.github.com/assignment-invitations/b1ad919e5a8248a11839fec83e45093e)
 - Readings - None
 
 [//]: # (**3.10** - Plotting data using Pandas (or Matplotlib + [Plotly](http://nbviewer.jupyter.org/github/plotly/python-user-guide/blob/master/s6_matplotlylib/s6_matplotlylib.ipynb)?))
