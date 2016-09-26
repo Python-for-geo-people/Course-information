@@ -78,7 +78,7 @@ The computer exercises will focus on developing basic programming skills using t
 
 [//]: # (**26.9** - Libraries; Dealing with numerical data using Pandas (or NumPy))
 **26.9** - Using Spyder; Functions and Modules
-- **Lesson** - [Lesson 4: Functions and modules](https://github.com/Python-for-geo-people/Functions-and-modules)
+- **Lesson** - [Lesson 4: Functions and modules](https://github.com/Python-for-geo-people/Functions-and-modules/)
 - **Assignment** - [Exercise 4: A temperature calculator](https://classroom.github.com/assignment-invitations/b1ad919e5a8248a11839fec83e45093e)
 - Readings - None
 
