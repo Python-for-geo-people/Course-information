@@ -1,6 +1,6 @@
 # Python for geo-people - Fall 2016
 
-## Shortcut
+## Course topics shortcut
 Jump down to the [list of course topics by week](#course-topics-by-week)
 
 ## Course meetings in Period I
