@@ -1,5 +1,8 @@
 # Python for geo-people - Fall 2016
 
+## Shortcut
+Jump down to the [list of course topics by week](#course-topics-by-week)
+
 ## Course meetings in Period I
 - Mondays 8-10 *or* 10-12, A113-114, Physicum (5.9-17.10)
 - *Work sessions on Thursdays 8-10, A111-112, Physicum (8.9-20.10)*
