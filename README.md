@@ -86,7 +86,7 @@ The computer exercises will focus on developing basic programming skills using t
 
 **3.10** - Reading and writing data files
 - **Lesson** - [Lesson 5: Reading and writing files](https://github.com/Python-for-geo-people/Lesson-5-Reading-Writing)
-- **Assignment** - [Exercise 5: ](https://classroom.github.com/assignment-invitations/17f0f2ee87873cb1bcb2c6a9ec228c42)
+- **Assignment** - [Exercise 5: Analysing NOAA climate data](https://classroom.github.com/assignment-invitations/17f0f2ee87873cb1bcb2c6a9ec228c42)
 - Readings - Zelle, Chapters 5
 
 **10.10** - Dealing with numerical data using NumPy
