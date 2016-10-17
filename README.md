@@ -90,11 +90,11 @@ The computer exercises will focus on developing basic programming skills using t
 - Readings - Zelle, Chapters 5
 
 **10.10** - Dealing with numerical data using NumPy
-- **Lesson** - [Lesson 6: ]()
-- **Assignment** - [Exercise 6: ]()
+- **Lesson** - [Lesson 6: Dealing with numerical data using NumPy](https://github.com/Python-for-geo-people/Lesson-6-Intro-to-NumPy)
+- **Assignment** - [Exercise 6: Analyzing data using NumPy](https://classroom.github.com/assignment-invitations/91b6f2cfe199617bd94a971f467457be)
 - Readings - Zelle, Chapters 8
 
 **17.10** - Plotting data using Matplotlib + Plotly
-- **Lesson** - [Lesson 7: ]()
-- **Assignment** - [Exercise 7: ]()
+- **Lesson** - [Lesson 7: Plotting data using Matplotlib and plotly](https://github.com/Python-for-geo-people/Lesson-7-Plotting)
+- **Assignment** - [Exercise 7: Plotting with Python](https://classroom.github.com/assignment-invitations/54ad87560677b78169f1c18717bb312e)
 - Readings - None
