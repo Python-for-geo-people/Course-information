@@ -1,4 +1,6 @@
 # Python for geo-people - Fall 2016
+<a href="Images/GitHub-swag1.jpg"><img src="Images/GitHub-swag1.jpg" width="300"></a> <a href="Images/GitHub-swag2.jpg"><img src="Images/GitHub-swag2.jpg" width="300"></a><br/>
+*Commemorating the arrivial of our GitHub swag. Photo: [Aku Heinonen](https://tuhat.halvi.helsinki.fi/portal/en/person/apheinon)*
 
 ## Course topics shortcut
 Jump down to the [list of course topics by week](#course-topics-by-week)
